@@ -1,10 +1,10 @@
 # Ignews - A subscription based blog 
 
 <div>
-<img src="https://img.shields.io/github/issues/heronmaioli/NextJs-Ignews/>
+ <img src="https://img.shields.io/github/issues/heronmaioli/NextJs-Ignews/>
  <img src="https://img.shields.io/github/forks/heronmaioli/NextJs-Ignews"/>
  <img src="https://img.shields.io/github/stars/heronmaioli/NextJs-Ignews"/>
- </div>
+</div>
  
 ### Description
 
