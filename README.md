@@ -1,6 +1,6 @@
 # Ignews - A subscription based blog 
  
-### Description
+## Description
 
 Presentation project to Next.js applied through the course [Ignite - ReactJs](https://www.rocketseat.com.br/ignite), focused on the concepts of:
                                                                          
@@ -14,7 +14,7 @@ Presentation project to Next.js applied through the course [Ignite - ReactJs](ht
 
 
 
- ### Features
+ ## Features
  
  #### Consume api to show prices dynamically
  #### Login with github
