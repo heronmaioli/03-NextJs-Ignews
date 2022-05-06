@@ -16,8 +16,8 @@ Presentation project to Next.js applied through the course [Ignite - ReactJs](ht
 
  ### Features
  
- # Consume api to show prices dynamically
- # Login with github
+ #### Consume api to show prices dynamically
+ #### Login with github
  ![image](https://user-images.githubusercontent.com/68977600/167181487-b85fff29-6da9-4e31-afc4-1f211ca622fe.png)
  
                                                                          
