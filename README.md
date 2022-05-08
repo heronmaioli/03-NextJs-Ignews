@@ -27,7 +27,7 @@ Presentation project to Next.js applied through the course [Ignite - ReactJs](ht
 ![image](https://user-images.githubusercontent.com/68977600/167285278-b76694c7-0050-4733-bdc5-3035ec787a1e.png)
 
 - Serveless DB using [FaunaDB](https://fauna.com/) 
-- Headless CMS for content management using [Prismic Io CMS](https://prismic.io/)    
+- Headless CMS using [Prismic Io CMS](https://prismic.io/) to manage content
 
 ![image](https://user-images.githubusercontent.com/68977600/167285382-0d2b4cae-d06f-4ff2-82ce-0eb7ded77e4b.png)
 
